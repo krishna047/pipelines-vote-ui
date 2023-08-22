@@ -29,4 +29,4 @@ spec:
             - name: VOTING_API_SERVICE_PORT
               value: "9000"
             - name: DEMO
-              value: "90"
+              value: "91"
